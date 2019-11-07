@@ -1,4 +1,4 @@
-/** Puzzle cube 6 pieces (3x3 base cubes) */
+/** Puzzle cube 6 pieces (3x3x3 base cubes) */
 
 size = 10; // base cube length (mm)
 
